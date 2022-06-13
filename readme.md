@@ -1,2 +1,16 @@
-Hello this is our project of student data analysis.
-lets do it👍
+
+PROJECT
+
+
+Team
+
+
+Objective
+
+Research
+
+Methodology
+
+TECH STACK
+
+Conclusion:
